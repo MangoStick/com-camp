@@ -11,3 +11,5 @@
 * [PHP](https://jakkapat.gitbooks.io/php)
 
 
+# DOWNLOAD
+* [PDF](https://github.com/Jakkapat/com-camp/blob/master/azure-iot-workshop.pdf)
