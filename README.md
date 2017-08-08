@@ -30,7 +30,7 @@
 
 
 
-## การแก้ไขรหัสผ่านสำหรับ root ของระบบจัดการฐานฐานข้อมูล mysql ผ่านโปรแกรม XMPP
+## การแก้ไขรหัสผ่านสำหรับ root ของระบบจัดการฐานฐานข้อมูล mysql ผ่านโปรแกรม XAMPP
 * [การแก้ไขรหัสผ่านสำหรับ root](https://phpmysql2017.gitbooks.io/phpmysql/content/root.html)
 
 
