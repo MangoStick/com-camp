@@ -17,11 +17,11 @@
 * [การสร้าง list เพื่อแสดงผลข้อมูลที่ค้นหา](https://jakkapat.gitbooks.io/phpmysql/content/list.html)
 * [การเรียกใช้ user](https://jakkapat.gitbooks.io/phpmysql/content/user.html)
 #### แบบฝึกหัด
-* [แบบฝึกหัด php ที่1](https://jakkapat.gitbooks.io/phpmysql/content/chapter1/workshop.html)
-* [แบบฝึกหัด php ที่2](https://jakkapat.gitbooks.io/phpmysql/content/chapter1/workshop-php2.html)
+* [แบบฝึกหัด php ที่1](https://phpmysql2017.gitbooks.io/phpmysql/content/chapter1/workshop.html)
+* [แบบฝึกหัด php ที่2](https://phpmysql2017.gitbooks.io/phpmysql/content/chapter1/workshop-php2.html)
 
 ## การแก้ไขรหัสผ่านสำหรับ root ของระบบจัดการฐานฐานข้อมูล mysql ผ่านโปรแกรม XMPP
-* [การแก้ไขรหัสผ่านสำหรับ root](https://jakkapat.gitbooks.io/phpmysql/content/root.html)
+* [การแก้ไขรหัสผ่านสำหรับ root](https://phpmysql2017.gitbooks.io/phpmysql/content/root.html)
 
 
 ## DOWNLOAD
