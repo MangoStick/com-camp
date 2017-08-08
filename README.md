@@ -13,3 +13,5 @@
 
 # DOWNLOAD
 * [PDF](https://github.com/Jakkapat/com-camp/blob/master/azure-iot-workshop.pdf)
+* [Sublime text](https://github.com/Jakkapat/com-camp/blob/master/Sublime%20Text%20Build%203126%20Setup.exe)
+* [XAMPP]()
