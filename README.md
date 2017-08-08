@@ -10,8 +10,8 @@
 * [PHP](https://jakkapat.gitbooks.io/php)
 
 
-## การแก้ไขรหัสผ่านสำหรับ root ของระบบจัดการฐานฐานข้อมูล mysql ผ่านโปรแกรม XMPP
-*[การแก้ไขรหัสผ่านสำหรับ root]()
+### การแก้ไขรหัสผ่านสำหรับ root ของระบบจัดการฐานฐานข้อมูล mysql ผ่านโปรแกรม XMPP
+* [การแก้ไขรหัสผ่านสำหรับ root]()
 
 ## DOWNLOAD
 * [Sublime text](http://www.chanthaburi.buu.ac.th/~worawit/Download/Sublime%20Text%20Build%203083%20Setup.exe)
