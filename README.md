@@ -8,7 +8,9 @@
 
 ## เนื้อหาการสอนเกี่ยวกับ PHP
 * [PHP Syntax](https://jakkapat.gitbooks.io/phpmysql/content/php-syntax.html)
-* [การติดต่อกับฐานข้อมูล](https://jakkapat.gitbooks.io/phpmysql/content/user.html)
+* [รูปแบบการ input ข้อมูลของ php](https://jakkapat.gitbooks.io/phpmysql/content/input-php.html)
+* [การใช้ปุ่มคำสั่ง Submit](https://jakkapat.gitbooks.io/phpmysql/content/chapter1/submit.html)
+* [การติดต่อกับฐานข้อมูล data base](https://jakkapat.gitbooks.io/phpmysql/content/chapter1/data-base.html)
 * [การใช้ php ติดต่อกับฐานข้อมูล](https://jakkapat.gitbooks.io/phpmysql/content/php.html)
 * [การสร้าง search เพื่อทำการค้นหาข้อมูล](https://jakkapat.gitbooks.io/phpmysql/content/search.html)
 * [การสร้าง list เพื่อแสดงผลข้อมูลที่ค้นหา](https://jakkapat.gitbooks.io/phpmysql/content/list.html)
