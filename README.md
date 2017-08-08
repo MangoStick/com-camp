@@ -11,7 +11,9 @@
 
 
 ### การแก้ไขรหัสผ่านสำหรับ root ของระบบจัดการฐานฐานข้อมูล mysql ผ่านโปรแกรม XMPP
-* [การแก้ไขรหัสผ่านสำหรับ root]()
+* [การแก้ไขรหัสผ่านสำหรับ root](https://jakkapat.gitbooks.io/phpmysql/content/root.html)
+### การเรียกใช้ user
+* [การเรียกใช้ user](https://jakkapat.gitbooks.io/phpmysql/content/user.html)
 
 ## DOWNLOAD
 * [Sublime text](http://www.chanthaburi.buu.ac.th/~worawit/Download/Sublime%20Text%20Build%203083%20Setup.exe)
