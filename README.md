@@ -14,11 +14,11 @@
 * [การใช้ php ติดต่อกับฐานข้อมูล](https://jakkapat.gitbooks.io/phpmysql/content/php.html)
 * [การสร้าง search เพื่อทำการค้นหาข้อมูล](https://jakkapat.gitbooks.io/phpmysql/content/search.html)
 * [การสร้าง list เพื่อแสดงผลข้อมูลที่ค้นหา](https://jakkapat.gitbooks.io/phpmysql/content/list.html)
+* [การเรียกใช้ user](https://jakkapat.gitbooks.io/phpmysql/content/user.html)
 
 ### การแก้ไขรหัสผ่านสำหรับ root ของระบบจัดการฐานฐานข้อมูล mysql ผ่านโปรแกรม XMPP
 * [การแก้ไขรหัสผ่านสำหรับ root](https://jakkapat.gitbooks.io/phpmysql/content/root.html)
-### การเรียกใช้ user
-* [การเรียกใช้ user](https://jakkapat.gitbooks.io/phpmysql/content/user.html)
+
 
 ## DOWNLOAD
 * [Sublime text](http://www.chanthaburi.buu.ac.th/~worawit/Download/Sublime%20Text%20Build%203083%20Setup.exe)
