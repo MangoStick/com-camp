@@ -2,8 +2,8 @@
 
 
 
-## เนื้อหาการสอนเกี่ยวกับ PHP/MySQL วันที่ 1
-* [MySQL](https://jakkapat.gitbooks.io/mysql)
+## เนื้อหาการสอนเกี่ยวกับ MySQL
+* [MySQL] ?
 
 
 ## เนื้อหาการสอนเกี่ยวกับ PHP
