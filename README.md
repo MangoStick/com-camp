@@ -6,9 +6,12 @@
 * [MySQL](https://jakkapat.gitbooks.io/mysql)
 
 
-## เนื้อหาการสอนเกี่ยวกับ PHP/MySQL วันที่ 2
-* [PHP](https://jakkapat.gitbooks.io/php)
-
+## เนื้อหาการสอนเกี่ยวกับ PHP
+* [PHP Syntax](https://jakkapat.gitbooks.io/phpmysql/content/php-syntax.html)
+* [การติดต่อกับฐานข้อมูล](https://jakkapat.gitbooks.io/phpmysql/content/user.html)
+* [การใช้ php ติดต่อกับฐานข้อมูล](https://jakkapat.gitbooks.io/phpmysql/content/php.html)
+* [การสร้าง search เพื่อทำการค้นหาข้อมูล](https://jakkapat.gitbooks.io/phpmysql/content/search.html)
+* [การสร้าง list เพื่อแสดงผลข้อมูลที่ค้นหา](https://jakkapat.gitbooks.io/phpmysql/content/list.html)
 
 ### การแก้ไขรหัสผ่านสำหรับ root ของระบบจัดการฐานฐานข้อมูล mysql ผ่านโปรแกรม XMPP
 * [การแก้ไขรหัสผ่านสำหรับ root](https://jakkapat.gitbooks.io/phpmysql/content/root.html)
