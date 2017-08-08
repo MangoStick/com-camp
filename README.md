@@ -15,6 +15,9 @@
 * [การสร้าง search เพื่อทำการค้นหาข้อมูล](https://jakkapat.gitbooks.io/phpmysql/content/search.html)
 * [การสร้าง list เพื่อแสดงผลข้อมูลที่ค้นหา](https://jakkapat.gitbooks.io/phpmysql/content/list.html)
 * [การเรียกใช้ user](https://jakkapat.gitbooks.io/phpmysql/content/user.html)
+#### แบบฝึกหัด
+* []()
+* []()
 
 ### การแก้ไขรหัสผ่านสำหรับ root ของระบบจัดการฐานฐานข้อมูล mysql ผ่านโปรแกรม XMPP
 * [การแก้ไขรหัสผ่านสำหรับ root](https://jakkapat.gitbooks.io/phpmysql/content/root.html)
