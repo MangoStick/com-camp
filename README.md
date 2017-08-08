@@ -24,7 +24,8 @@
 
 
 ## ขั้นตอนการดาวน์โหลดและติดตั้งโปรแกรม
-* [xampp]()
+* [xampp](https://jakkapat.gitbooks.io/how-to-setup/content/chapter1.html)
+* [Sublime]()
 
 
 
