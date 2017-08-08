@@ -21,8 +21,8 @@
 * [การสร้าง Report] ?
 
 * #### แบบฝึกหัด
-      * [แบบฝึกหัด php ที่1](https://phpmysql2017.gitbooks.io/phpmysql/content/chapter1/workshop.html)
-      * [แบบฝึกหัด php ที่2](https://phpmysql2017.gitbooks.io/phpmysql/content/chapter1/workshop-php2.html)
+    * [แบบฝึกหัด php ที่1](https://phpmysql2017.gitbooks.io/phpmysql/content/chapter1/workshop.html)
+    * [แบบฝึกหัด php ที่2](https://phpmysql2017.gitbooks.io/phpmysql/content/chapter1/workshop-php2.html)
 
 
 
