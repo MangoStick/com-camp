@@ -19,7 +19,7 @@
 * [แบบฝึกหัด php ที่1](https://jakkapat.gitbooks.io/phpmysql/content/chapter1/workshop.html)
 * [แบบฝึกหัด php ที่2](https://jakkapat.gitbooks.io/phpmysql/content/chapter1/workshop-php2.html)
 
-### การแก้ไขรหัสผ่านสำหรับ root ของระบบจัดการฐานฐานข้อมูล mysql ผ่านโปรแกรม XMPP
+## การแก้ไขรหัสผ่านสำหรับ root ของระบบจัดการฐานฐานข้อมูล mysql ผ่านโปรแกรม XMPP
 * [การแก้ไขรหัสผ่านสำหรับ root](https://jakkapat.gitbooks.io/phpmysql/content/root.html)
 
 
