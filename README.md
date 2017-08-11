@@ -1,7 +1,7 @@
 # ค่ายทักษะคอมพิวเตอร์ วันที่ 19-20 สิงหาคม 2560 
-## ⋅⋅⋅ณ โรงเรียนเบจมานุสรณ์ จันทบุรี⋅⋅⋅
+## ณ โรงเรียนเบจมานุสรณ์ จันทบุรี
 
-
+---
 
 
 #### เนื้อหาการสอนเกี่ยวกับ MySQL
@@ -30,12 +30,9 @@
    * [แบบฝึกหัด php 3](https://phpmysql2017.gitbooks.io/phpmysql/content/chapter1/workshop-php3.html)
 
 
-
 #### ขั้นตอนการดาวน์โหลดและติดตั้งโปรแกรม
 * [xampp](https://jakkapat.gitbooks.io/how-to-setup/content/chapter1.html)
 * [Sublime] ?
-
-
 
 
 #### การแก้ไขรหัสผ่านสำหรับ root ของระบบจัดการฐานฐานข้อมูล mysql ผ่านโปรแกรม XAMPP
