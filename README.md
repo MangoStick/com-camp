@@ -29,15 +29,18 @@
    * [แบบฝึกหัด php 2](https://phpmysql2017.gitbooks.io/phpmysql/content/chapter1/workshop-php2.html)
    * [แบบฝึกหัด php 3](https://phpmysql2017.gitbooks.io/phpmysql/content/chapter1/workshop-php3.html)
 
+---
 
 #### ขั้นตอนการดาวน์โหลดและติดตั้งโปรแกรม
 * [xampp](https://jakkapat.gitbooks.io/how-to-setup/content/chapter1.html)
 * [Sublime] ?
 
+---
 
 #### การแก้ไขรหัสผ่านสำหรับ root ของระบบจัดการฐานฐานข้อมูล mysql ผ่านโปรแกรม XAMPP
 * [การแก้ไขรหัสผ่านสำหรับ root](https://phpmysql2017.gitbooks.io/phpmysql/content/root.html)
 
+---
 
 ### DOWNLOAD
 * [Sublime text](http://www.chanthaburi.buu.ac.th/~worawit/Download/Sublime%20Text%20Build%203083%20Setup.exe)
