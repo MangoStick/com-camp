@@ -33,7 +33,7 @@
 
 #### ขั้นตอนการดาวน์โหลดและติดตั้งโปรแกรม
 * [XAMPP](https://jakkapat.gitbooks.io/how-to-setup/content/chapter1.html)
-* [Sublime](https://jakkapat.gitbooks.io/how-to-setup/content/sublime-text..html)
+* [Sublime text](https://jakkapat.gitbooks.io/how-to-setup/content/sublime-text..html)
 
 ---
 
