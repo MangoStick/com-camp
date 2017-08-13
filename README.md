@@ -11,8 +11,8 @@
 
 #### เนื้อหาการสอนเกี่ยวกับ PHP
 * [PHP Syntax](https://phpmysql2017.gitbooks.io/phpmysql/content/chapter1/php-syntax.html)
-* [รูปแบบ input type ของ php](https://phpmysql2017.gitbooks.io/phpmysql/content/input-php.html)
 * [การสร้างตัวแปร php](https://phpmysql2017.gitbooks.io/phpmysql/content/chapter1/php.html)
+* [รูปแบบ input type ของ php](https://phpmysql2017.gitbooks.io/phpmysql/content/input-php.html)
 * [การรับและส่งข้อมูลจาก Form 1](https://phpmysql2017.gitbooks.io/phpmysql/content/chapter1/form.html)
 * [การใช้ปุ่มคำสั่ง Submit](https://phpmysql2017.gitbooks.io/phpmysql/content/chapter1/submit.html)
 * [การรับและส่งข้อมูลจาก Form 2](https://phpmysql2017.gitbooks.io/phpmysql/content/chapter1/form-2.html)
