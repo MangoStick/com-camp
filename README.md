@@ -14,7 +14,7 @@
 #### Database
 * [Key](https://phpmysql2017.gitbooks.io/phpmysql/content/database/key.html)
 * [การสร้างฐานข้อมูล](https://phpmysql2017.gitbooks.io/phpmysql/content/database/create-database.html)
- * [HRIS sql](http://www.chanthaburi.buu.ac.th/~worawit/Download/data-HRIS.sql)
+  * [HRIS sql](http://www.chanthaburi.buu.ac.th/~worawit/Download/data-HRIS.sql)
 * [การสร้างตาราง](https://phpmysql2017.gitbooks.io/phpmysql/content/database/create-table.html)
 * [ประเภทของข้อมูล](https://phpmysql2017.gitbooks.io/phpmysql/content/database/data-type.html)
 * [ทดลองป้อนข้อมูล](https://phpmysql2017.gitbooks.io/phpmysql/content/database/test-insert-data.html)
