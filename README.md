@@ -2,6 +2,13 @@
 ## ณ โรงเรียนเบจมานุสรณ์ จันทบุรี
 
 ---
+#### XAMPP
+* [Download XAMPP](http://www.chanthaburi.buu.ac.th/~worawit/Download/xampp-win32-1.8.3-3-VC11-installer.exe)
+* [การติดตั้ง]()
+* [การใช้งาน]()
+* [การตั้งค่าหน้า Login]()
+* [การตั้งค่า Password]()
+
 
 
 #### เนื้อหาการสอนเกี่ยวกับ MySQL
