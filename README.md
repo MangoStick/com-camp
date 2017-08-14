@@ -4,19 +4,40 @@
 ---
 #### XAMPP
 * [Download XAMPP](http://www.chanthaburi.buu.ac.th/~worawit/Download/xampp-win32-1.8.3-3-VC11-installer.exe)
-* [การติดตั้ง]()
-* [การใช้งาน]()
-* [การตั้งค่าหน้า Login]()
-* [การตั้งค่า Password]()
-
-
-
-#### เนื้อหาการสอนเกี่ยวกับ MySQL
-* [MySQL] ?
+* [การติดตั้ง](https://phpmysql2017.gitbooks.io/phpmysql/content/xampp/how-to-install-xampp.html)
+* [การใช้งาน](https://phpmysql2017.gitbooks.io/phpmysql/content/xampp/how-to-use-xampp.html)
+* [การตั้งค่าหน้า Login](https://phpmysql2017.gitbooks.io/phpmysql/content/xampp/how-to-set-user-login.html)
+* [การตั้งค่า Password](https://phpmysql2017.gitbooks.io/phpmysql/content/xampp/how-to-set-password-login.html)
 
 ---
 
-#### เนื้อหาการสอนเกี่ยวกับ PHP
+#### Database
+* [Key]
+* [การสร้างฐานข้อมูล]
+* [การสร้างตาราง]
+* [ประเภทของข้อมูล]
+* [ทดสอบการป้อนข้อมูล]
+
+
+#### MySQL
+* [คำสั่ง MySQL]
+* [การเพิ่มฐานข้อมูล]
+* [การใช้งานตำสั่ง]
+* [ทดสอบคำสั่ง]
+* [แบบฝึกหัด]
+
+---
+#### Sublime Text
+* [Download]
+* [การติดตั้ง]
+
+---
+#### PHP
+* [คำสั่ง PHP]
+* [ประเภทของการป้อนข้อมูล]
+* [การเชื่อมต่อฐานข้อมูลกับ Database]
+* [รา่ยงาน (Report)]
+* [แบบฝึกหัด]
 
 
 ---
