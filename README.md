@@ -17,7 +17,6 @@
 #### Database
 * [Key](https://phpmysql2017.gitbooks.io/phpmysql/content/database/key.html)
 * [การสร้างฐานข้อมูล](https://phpmysql2017.gitbooks.io/phpmysql/content/database/create-database.html)
-  * [HRIS sql](http://www.chanthaburi.buu.ac.th/~worawit/Download/data-HRIS.sql)
 * [การสร้างตาราง](https://phpmysql2017.gitbooks.io/phpmysql/content/database/create-table.html)
 * [ประเภทของข้อมูล](https://phpmysql2017.gitbooks.io/phpmysql/content/database/data-type.html)
 * [ทดลองป้อนข้อมูล](https://phpmysql2017.gitbooks.io/phpmysql/content/database/test-insert-data.html)
@@ -27,6 +26,7 @@
 #### MySQL
 * [คำสั่ง MySQL](https://phpmysql2017.gitbooks.io/phpmysql/content/mysql/sql-console.html)
 * [การเพิ่มฐานข้อมูล](https://phpmysql2017.gitbooks.io/phpmysql/content/mysql/insert-database.html)
+  * [HRIS sql](http://www.chanthaburi.buu.ac.th/~worawit/Download/data-HRIS.sql)
 * [การใช้งานคำสั่ง MySQL](https://phpmysql2017.gitbooks.io/phpmysql/content/mysql/how-to-use-console-sql.html)
 * [ทดสอบคำสั่ง MySQL](https://phpmysql2017.gitbooks.io/phpmysql/content/mysql/test-console-sql.html)
 * [แบบฝึกหัด MySQL](https://phpmysql2017.gitbooks.io/phpmysql/content/mysql/assign-sql.html)
