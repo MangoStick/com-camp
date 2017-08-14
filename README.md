@@ -32,7 +32,7 @@
 ---
 
 #### Sublime Text
-* [Download](http://www.chanthaburi.buu.ac.th/~worawit/Download/Sublime%20Text%20Build%203083%20Setup.exe)
+* [Download Sublime Text](http://www.chanthaburi.buu.ac.th/~worawit/Download/Sublime%20Text%20Build%203083%20Setup.exe)
 * [การติดตั้ง](https://phpmysql2017.gitbooks.io/phpmysql/content/sublime-text/how-to-install-sublime-text.html)
 
 ---
