@@ -2,6 +2,8 @@
 ## ณ โรงเรียนเบจมานุสรณ์ จันทบุรี
 
 ---
+### บรรยาย
+* [เนื้อหาบรรยาย](https://phpmysql2017.gitbooks.io/phpmysql/content/)
 
 #### XAMPP
 * [Download XAMPP](http://www.chanthaburi.buu.ac.th/~worawit/Download/xampp-win32-1.8.3-3-VC11-installer.exe)
