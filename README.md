@@ -25,7 +25,7 @@
 #### MySQL
 * [คำสั่ง MySQL](https://phpmysql2017.gitbooks.io/phpmysql/content/mysql/sql-console.html)
 * [การเพิ่มฐานข้อมูล](https://phpmysql2017.gitbooks.io/phpmysql/content/mysql/insert-database.html)
-* [การใช้งานตำสั่ง MySQL](https://phpmysql2017.gitbooks.io/phpmysql/content/mysql/how-to-use-console-sql.html)
+* [การใช้งานคำสั่ง MySQL](https://phpmysql2017.gitbooks.io/phpmysql/content/mysql/how-to-use-console-sql.html)
 * [ทดสอบคำสั่ง MySQL]()
 * [แบบฝึกหัด MySQL](https://phpmysql2017.gitbooks.io/phpmysql/content/mysql/assign-sql.html)
 
