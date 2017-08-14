@@ -10,35 +10,7 @@
 ---
 
 #### เนื้อหาการสอนเกี่ยวกับ PHP
-* [PHP Syntax](https://phpmysql2017.gitbooks.io/phpmysql/content/chapter1/php-syntax.html)
-* [การสร้างตัวแปร php](https://phpmysql2017.gitbooks.io/phpmysql/content/chapter1/php.html)
-* [รูปแบบ input type ของ php](https://phpmysql2017.gitbooks.io/phpmysql/content/input-php.html)
-* [การรับและส่งข้อมูลจาก Form 1](https://phpmysql2017.gitbooks.io/phpmysql/content/chapter1/form.html)
-* [การใช้ปุ่มคำสั่ง Submit](https://phpmysql2017.gitbooks.io/phpmysql/content/chapter1/submit.html)
-* [การรับและส่งข้อมูลจาก Form 2](https://phpmysql2017.gitbooks.io/phpmysql/content/chapter1/form-2.html)
-* [การติดต่อกับฐานข้อมูล database](https://phpmysql2017.gitbooks.io/phpmysql/content/chapter1/data-base.html)
 
-    * [การเรียกใช้ user](https://phpmysql2017.gitbooks.io/phpmysql/content/5.html)
-    
-* [การใช้ php ติดต่อกับฐานข้อมูล](https://phpmysql2017.gitbooks.io/phpmysql/content/php.html)
-* [การสร้าง search เพื่อทำการค้นหาข้อมูล](https://phpmysql2017.gitbooks.io/phpmysql/content/search.html)
-* [การสร้าง list เพื่อแสดงผลข้อมูลที่ค้นหา](https://phpmysql2017.gitbooks.io/phpmysql/content/list.html)
-* [การออกรายงาน หรือ Report](https://phpmysql2017.gitbooks.io/phpmysql/content/chapter1/report.html)
-
- ##### แบบฝึกหัด
-   * [แบบฝึกหัด php](https://phpmysql2017.gitbooks.io/phpmysql/content/chapter1/workshop.html)
-
-
----
-
-#### ขั้นตอนการดาวน์โหลดและติดตั้งโปรแกรม
-* [XAMPP](https://jakkapat.gitbooks.io/how-to-setup/content/chapter1.html)
-* [Sublime text](https://jakkapat.gitbooks.io/how-to-setup/content/sublime-text.html)
-
----
-
-#### การแก้ไขรหัสผ่านสำหรับ root ของระบบจัดการฐานฐานข้อมูล mysql ผ่านโปรแกรม XAMPP
-* [การแก้ไขรหัสผ่านสำหรับ root](https://phpmysql2017.gitbooks.io/phpmysql/content/root.html)
 
 ---
 
