@@ -2,6 +2,7 @@
 ## ณ โรงเรียนเบจมานุสรณ์ จันทบุรี
 
 ---
+
 #### XAMPP
 * [Download XAMPP](http://www.chanthaburi.buu.ac.th/~worawit/Download/xampp-win32-1.8.3-3-VC11-installer.exe)
 * [การติดตั้ง](https://phpmysql2017.gitbooks.io/phpmysql/content/xampp/how-to-install-xampp.html)
@@ -19,34 +20,30 @@
 * [ประเภทของข้อมูล](https://phpmysql2017.gitbooks.io/phpmysql/content/database/data-type.html)
 * [ทดลองป้อนข้อมูล](https://phpmysql2017.gitbooks.io/phpmysql/content/database/test-insert-data.html)
 
+---
 
 #### MySQL
 * [คำสั่ง MySQL](https://phpmysql2017.gitbooks.io/phpmysql/content/mysql/sql-console.html)
 * [การเพิ่มฐานข้อมูล](https://phpmysql2017.gitbooks.io/phpmysql/content/mysql/insert-database.html)
-* [การใช้งานตำสั่ง]()
-* [ทดสอบคำสั่ง]()
-* [แบบฝึกหัด]()
+* [การใช้งานตำสั่ง MySQL](https://phpmysql2017.gitbooks.io/phpmysql/content/mysql/how-to-use-console-sql.html)
+* [ทดสอบคำสั่ง MySQL]()
+* [แบบฝึกหัด MySQL](https://phpmysql2017.gitbooks.io/phpmysql/content/mysql/assign-sql.html)
 
 ---
+
 #### Sublime Text
-* [Download]()
-* [การติดตั้ง]()
+* [Download](http://www.chanthaburi.buu.ac.th/~worawit/Download/Sublime%20Text%20Build%203083%20Setup.exe)
+* [การติดตั้ง](https://phpmysql2017.gitbooks.io/phpmysql/content/sublime-text/how-to-install-sublime-text.html)
 
 ---
+
 #### PHP
-* [คำสั่ง PHP]()
-* [ประเภทของการป้อนข้อมูล]()
-* [การเชื่อมต่อฐานข้อมูลกับ Database]()
-* [รา่ยงาน (Report)]()
-* [แบบฝึกหัด]()
-
-
----
-
-### DOWNLOAD
-* [Sublime text](http://www.chanthaburi.buu.ac.th/~worawit/Download/Sublime%20Text%20Build%203083%20Setup.exe)
-* [XAMPP](http://www.chanthaburi.buu.ac.th/~worawit/Download/xampp-win32-1.8.3-3-VC11-installer.exe)
-* [HRIS sql](http://www.chanthaburi.buu.ac.th/~worawit/Download/data-HRIS.sql)
-* [โปรแกรมเพิ่มเติมอื่นๆ](http://www.chanthaburi.buu.ac.th/~worawit/download.php)
+* [คำสั่ง PHP](https://phpmysql2017.gitbooks.io/phpmysql/content/php/php-syntax.html)
+* [ประเภทของการป้อนข้อมูล](https://phpmysql2017.gitbooks.io/phpmysql/content/php/from-and-input-type.html)
+* [การเชื่อมต่อฐานข้อมูล](https://phpmysql2017.gitbooks.io/phpmysql/content/php/how-to-connect-database.html)
+* [รา่ยงาน (Report)](https://phpmysql2017.gitbooks.io/phpmysql/content/php/report.html)
+* [แบบฝึกหัด PHP](https://phpmysql2017.gitbooks.io/phpmysql/content/php/assign-php.html)
 
 ---
+
+
