@@ -47,5 +47,7 @@
 * [แบบฝึกหัด PHP](https://phpmysql2017.gitbooks.io/phpmysql/content/php/assign-php.html)
 
 ---
+###แบบสอบถาม
+(https://docs.google.com/forms/d/1KBwGeP6HjI9JREeWiinhfethjvt9L5ciRT3b3RYjdCI/viewform?edit_requested=true)
 
 
