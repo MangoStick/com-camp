@@ -45,6 +45,7 @@
 * [การเชื่อมต่อฐานข้อมูล](https://phpmysql2017.gitbooks.io/phpmysql/content/php/how-to-connect-database.html)
 * [รา่ยงาน (Report)](https://phpmysql2017.gitbooks.io/phpmysql/content/php/report.html)
 * [แบบฝึกหัด PHP](https://phpmysql2017.gitbooks.io/phpmysql/content/php/assign-php.html)
+ * [เฉลยแบบฝึกหัด](https://phpmysql2017.gitbooks.io/phpmysql/content/php/php-assign.html)
 
 ---
 ###แบบสอบถาม
